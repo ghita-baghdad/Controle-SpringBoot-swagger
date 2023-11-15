@@ -38,6 +38,9 @@ Swagger : Un outil de documentation d'API générant une documentation interacti
 
 ![image](https://github.com/ghita-baghdad/Controle-SpringBoot-swagger/assets/147449053/45981a5d-6864-4a1a-99ff-0bf7c798df36)
 
+## PUT :
+
+![image](https://github.com/ghita-baghdad/Controle-SpringBoot-swagger/assets/147449053/b02b3716-0864-4b96-aff2-6a5e27c7ce72)
 
 
 ## Filtrages des articles par categorie :

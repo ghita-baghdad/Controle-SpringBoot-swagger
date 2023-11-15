@@ -48,6 +48,7 @@ Swagger : Un outil de documentation d'API générant une documentation interacti
 
 ## Articles entre deux dates :
 
+![image](https://github.com/ghita-baghdad/Controle-SpringBoot-swagger/assets/147449053/3b3de988-a676-46d6-8a76-e985eecbc227)
 
 
 
